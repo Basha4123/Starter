@@ -1,0 +1,10 @@
+public class Main{
+//Right above me is the main class of the package that you have created!
+//Always name the class with a
+     public static void main(String []args){
+     //This is the command that You need every time you're coding!
+        System.out.println("Starter Test");
+        //This line above me tells the System to print out the line in the ("") with the Quotes To read out the "Starter Test"
+       
+     }
+}
